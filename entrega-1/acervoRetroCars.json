@@ -1,0 +1,62 @@
+[
+    {
+       "id": 1,
+       "carro": "New Beetle",
+       "fabricante": "Volkswagen",
+       "producao": 1997
+    },
+    {
+       "id": 2,
+       "carro": "MINI Cooper",
+       "fabricante": "Mini",
+       "producao": 2000
+    },
+    {
+        "id": 3,
+        "carro": "Fiat 500",
+        "fabricante": "Fiat",
+        "producao": 1975
+    },
+    {
+        "id": 4,
+        "carro": "Gol Vintage",
+        "fabricante": "Volkswagen",
+        "producao": 2010
+    },
+    {
+       "id": 5,
+       "carro": "PT Cruiser",
+       "fabricante": "Chrysler",
+       "producao": 2000
+    },
+    {
+        "id": 6,
+        "carro": "DeLorean",
+        "fabricante": "DeLorean Motor Company",
+        "producao": 2013
+    },
+    {
+        "id": 7,
+        "carro": "Dodge Challenger",
+        "fabricante": "Dodge",
+        "producao": 2008
+    },
+    {
+        "id": 8,
+        "carro": "Camaro",
+        "fabricante": "Chevrolet",
+        "producao": 2009
+    },
+    {
+        "id": 9,
+        "carro": "Mustang",
+        "fabricante": "Ford",
+        "producao": 1964
+    },
+    {
+        "id": 10,
+        "carro": "EV-N",
+        "fabricante": "Honda",
+        "producao": 2010
+    }
+]   

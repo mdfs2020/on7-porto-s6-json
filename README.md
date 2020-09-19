@@ -11,7 +11,7 @@ Sugestões de temas :)
 
 1. Cursos de graduação
 2. Empresas de tecnologia
-3. Bandas
+3. Música
 4. Filmes
 5. Restaurantes
 6. Livros
@@ -41,3 +41,6 @@ Sugestões de temas :)
 1. Criar o seu repositório no Github
 2. Subir nesse repositórios os arquivos .json que você criou
 3. Enviar o link desse repositório no Google Classroom :)
+
+
+---> Cada tema foi pensado e descrito com muito carinho :)

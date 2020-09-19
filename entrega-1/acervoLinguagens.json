@@ -1,0 +1,71 @@
+[
+    {
+       "id": 1,
+       "linguagem": "C",
+       "surgiuEm": 1972,
+       "criadoPor": "Dennis Ritchie"
+    },
+    {
+       "id": 2,
+       "linguagem": "Java",
+       "surgiuEm": 1995,
+       "criadoPor": [
+        "James Gosling",
+        "Sun Microsystems"
+        ]
+    },
+    {
+        "id": 3,
+        "linguagem": "Python",
+        "surgiuEm": 1992,
+        "criadoPor": "Guido van Rossum"
+    },
+    {
+        "id": 4,
+        "linguagem": "C++",
+        "surgiuEm": 1979,
+        "criadoPor": "Bjarne Stroustrup"
+    },
+    {
+       "id": 5,
+       "linguagem": "C#",
+       "surgiuEm": 2000,
+       "criadoPor": "Microsoft Corporation"
+    },
+    {
+        "id": 6,
+        "linguagem": "Visual Basic",
+        "surgiuEm": 2002,
+        "criadoPor": "Microsoft Corporation"
+    },
+    {
+        "id": 7,
+        "linguagem": "JavaScript",
+        "surgiuEm": 1995,
+        "criadoPor": "Brendan Eich"
+    },
+    {
+        "id": 8,
+        "linguagem": "PHP",
+        "surgiuEm": 1995,
+        "criadoPor": "Rasmus Lerdorf"
+    },
+    {
+        "id": 9,
+        "linguagem": "SQL",
+        "surgiuEm": 1974,
+        "criadoPor": [
+            "Donald D. Chamberlin",
+            "Raymond F. Boyce"
+        ]
+    },
+    {
+        "id": 10,
+        "linguagem": "R",
+        "surgiuEm": 1993,
+        "criadoPor": [
+            "Ross Ihaka",
+            "Robert Clifford Gentleman"
+        ]
+    }
+]   
