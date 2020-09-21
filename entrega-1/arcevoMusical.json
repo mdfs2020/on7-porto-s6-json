@@ -4,10 +4,10 @@
         "artista": "O Terno",
         "generoMusical": "Rock",
         "principaisObras": [
-            "66",
-            "O Terno",
-            "Melhor Do Que Parece",
-            "<atrás/além>"
+        "66",
+        "O Terno",
+        "Melhor Do Que Parece",
+        "<atrás/além>"
         ],
         "oDisco": "<atrás/além> (2019)"
         
@@ -16,15 +16,15 @@
         "id": 2,
         "artista": "Belchior",
         "generoMusical": [
-            "MPB",
-            "Blues",
-            "Folk rock",
-            "Country Rock"
+        "MPB",
+        "Blues",
+        "Folk rock",
+        "Country Rock"
         ], 
         "principaisObras": [
-            "Alucinação",
-            "Coração Selvagem",
-            "Divina Comédia Humana"
+        "Alucinação",
+        "Coração Selvagem",
+        "Divina Comédia Humana"
         ],
         "oDisco": "Alucinação (1976)"
         
@@ -33,20 +33,20 @@
         "id": 3,
         "artista": "Gilberto Gil",
         "generoMusical": [
-            "MPB",
-            "Blues",
-            "Samba",
-            "Reggae"
+        "MPB",
+        "Blues",
+        "Samba",
+        "Reggae"
         ],  
         "principaisObras": [
-            "Louvação",
-            "Refazenda",
-            "Refavela",
-            "Raça Humana",
-            "Parabolicamará",
-            "O Sol de Oslo",
-            "Gilbertos Samba",
-            "OK OK OK"
+        "Louvação",
+        "Refazenda",
+        "Refavela",
+        "Raça Humana",
+        "Parabolicamará",
+        "O Sol de Oslo",
+        "Gilbertos Samba",
+        "OK OK OK"
         ],
         "oDisco": "Parabolicamará (1992)"
         
@@ -55,19 +55,19 @@
         "id": 4,
         "artista": "Elis Regina",
         "generoMusical": [
-            "MPB",
-            "Bossa Nova",
-            "Samba",
-            "Jazz"
+        "MPB",
+        "Bossa Nova",
+        "Samba",
+        "Jazz"
         ],    
         "principaisObras": [
-            "Viva a Brotolândia",
-            "Poema de Amor",
-            "Samba - Eu Canto Assim",
-            "Em Pleno Verão",
-            "Falso Brilhante",
-            "Essa Mulher",
-            "Saudade do Brasil"
+        "Viva a Brotolândia",
+        "Poema de Amor",
+        "Samba - Eu Canto Assim",
+        "Em Pleno Verão",
+        "Falso Brilhante",
+        "Essa Mulher",
+        "Saudade do Brasil"
         ],
         "oDisco": "Saudade do Brasil (1980) #ditaduranuncamais"
         
@@ -76,20 +76,20 @@
         "id": 5,
         "artista": "Legião Urbana",
         "generoMusical": [
-            "Pós-punk",
-            "Punk rock",
-            "Rock alternativo",
-            "Rock progressivo"
+        "Pós-punk",
+        "Punk rock",
+        "Rock alternativo",
+        "Rock progressivo"
         ],    
         "principaisObras": [
-            "Legião Urbana",
-            "Dois",
-            "Que País É Este",
-            "As Quatro Estações",
-            "O Descobrimento do Brasil",
-            "A Tempestade",
-            "Uma Outra Estação",
-            "Legião Urbana e Paralamas Juntos"
+        "Legião Urbana",
+        "Dois",
+        "Que País É Este",
+        "As Quatro Estações",
+        "O Descobrimento do Brasil",
+        "A Tempestade",
+        "Uma Outra Estação",
+        "Legião Urbana e Paralamas Juntos"
         ],
         "oDisco": "Que país é esse? (1987)"
         
@@ -98,20 +98,20 @@
         "id": 6,
         "artista": "Chico César",
         "generoMusical": [
-            "MPB",
-            "Frevo",
-            "Reggae"
+        "MPB",
+        "Frevo",
+        "Reggae"
         ],
         "principaisObras": [
-            "Aos Vivos",
-            "Cuscuz Clã",
-            "Beleza Mano",
-            "Mama Mundi",
-            "Respeitem Meus Cabelos, Brancos",
-            "De Uns Tempos pra Cá",
-            "Francisco, forró y frevo",
-            "Estado de Poesia",
-            "O Amor É Um Ato Revolucionário"
+        "Aos Vivos",
+        "Cuscuz Clã",
+        "Beleza Mano",
+        "Mama Mundi",
+        "Respeitem Meus Cabelos, Brancos",
+        "De Uns Tempos pra Cá",
+        "Francisco, forró y frevo",
+        "Estado de Poesia",
+        "O Amor É Um Ato Revolucionário"
         ],
         "oDisco": "Aos Vivos (1995)"
         
@@ -120,19 +120,19 @@
         "id": 7,
         "artista": "Marisa Monte",
         "generoMusical": [
-            "MPB",
-            "Pop",
-            "Samba"
+        "MPB",
+        "Pop",
+        "Samba"
         ],
         "principaisObras": [
-            "MM",
-            "Mais",
-            "Verde, Anil, Amarelo, Cor-de-Rosa e Carvão",
-            "Memórias, Crônicas e Declarações de Amor",
-            "Tribalistas",
-            "Infinito Particular",
-            "Universo ao Meu Redor",
-            "O Que Você Quer Saber de Verdade"
+        "MM",
+        "Mais",
+        "Verde, Anil, Amarelo, Cor-de-Rosa e Carvão",
+        "Memórias, Crônicas e Declarações de Amor",
+        "Tribalistas",
+        "Infinito Particular",
+        "Universo ao Meu Redor",
+        "O Que Você Quer Saber de Verdade"
         ],
         "oDisco": "Verde, Anil, Amarelo, Cor-de-rosa e carvão (1994)"
         
@@ -141,23 +141,23 @@
         "id": 8,
         "artista": "Arnaldo Antunes",
         "generoMusical": [
-            "Rock",
-            "Pop rock",
-            "MPB"
+        "Rock",
+        "Pop rock",
+        "MPB"
         ],
         "principaisObras": [
-            "Nome",
-            "Ninguém",
-            "O silêncio",
-            "Um som",
-            "Paradeiro",
-            "Saiba",
-            "Qualquer",
-            "Iê Iê Iê",
-            "Disco",
-            "Já É",
-            "RSTUVXZ",
-            "O Real Resiste"
+        "Nome",
+        "Ninguém",
+        "O silêncio",
+        "Um som",
+        "Paradeiro",
+        "Saiba",
+        "Qualquer",
+        "Iê Iê Iê",
+        "Disco",
+        "Já É",
+        "RSTUVXZ",
+        "O Real Resiste"
         ],
         "oDisco": "Um som (1988)"
         
@@ -166,20 +166,20 @@
         "id": 9,
         "artista": "Chico Buarque de Hollanda",
         "generoMusical":[
-            "MPB",
-            "Samba"
+        "MPB",
+        "Samba"
         ],
         "principaisObras": [
-            "Chico Buarque",
-            "Ópera do Malandro",
-            "Almanaque",
-            "Malandro",
-            "Francisco",
-            "Dança da Meia-Lua",
-            "Paratodos",
-            "Cambaio",
-            "Carioca",
-            "Caravanas"
+        "Chico Buarque",
+        "Ópera do Malandro",
+        "Almanaque",
+        "Malandro",
+        "Francisco",
+        "Dança da Meia-Lua",
+        "Paratodos",
+        "Cambaio",
+        "Carioca",
+        "Caravanas"
         ],
         "oDisco": "Chico Buarque (1978)"
         
@@ -188,15 +188,15 @@
         "id": 10,
         "artista": "Karina Buhr",
         "generoMusical": [
-            "MPB",
-            "Rock",
-            "Manguebeat"
+        "MPB",
+        "Rock",
+        "Manguebeat"
         ],
         "principaisObras":  [
-            "Eu Menti pra Você",
-            "Longe de Onde",
-            "Selvática",
-            "Desmanche"
+        "Eu Menti pra Você",
+        "Longe de Onde",
+        "Selvática",
+        "Desmanche"
         ],
         "oDisco": "Eu Menti pra Você (2010)"
         
@@ -205,21 +205,21 @@
         "id": 11,
         "artista": "Otto",
         "generoMusical": [
-            "Manguebeat",
-            "Rock",
-            "Música eletrônica",
-            "Coco de roda",
-            "MPB"
+        "Manguebeat",
+        "Rock",
+        "Música eletrônica",
+        "Coco de roda",
+        "MPB"
         ],
         "principaisObras":  [
-            "Samba pra Burro",
-            "Changez Tout - Samba pra Burro Dissecado",
-            "Condom Black",
-            "Sem Gravidade",
-            "MTV Apresenta Otto",
-            "Certa Manhã Acordei de Sonhos Intranquilos",
-            "The Moon 1111",
-            "Ottomatopeia"
+        "Samba pra Burro",
+        "Changez Tout - Samba pra Burro Dissecado",
+        "Condom Black",
+        "Sem Gravidade",
+        "MTV Apresenta Otto",
+        "Certa Manhã Acordei de Sonhos Intranquilos",
+        "The Moon 1111",
+        "Ottomatopeia"
         ],
         "oDisco": "Certa Manhã Acordei de Sonhos Intranquilos (2009)"
         
@@ -228,21 +228,21 @@
         "id": 12,
         "artista": "Céu",
         "generoMusical": [
-            "MPB",
-            "Bossa Nova",
-            "Pop",
-            "World Music",
-            "Afrobeat",
-            "Dub",
-            "Indietronica"
+        "MPB",
+        "Bossa Nova",
+        "Pop",
+        "World Music",
+        "Afrobeat",
+        "Dub",
+        "Indietronica"
         ],
         "principaisObras":  [
-            "Céu",
-            "Vagarosa",
-            "Caravana Sereia Bloom",
-            "Ao Vivo",
-            "Tropix",
-            "APKÁ"
+        "Céu",
+        "Vagarosa",
+        "Caravana Sereia Bloom",
+        "Ao Vivo",
+        "Tropix",
+        "APKÁ"
         ],
         "oDisco": "Caravana Sereia Bloom (2012)"
         

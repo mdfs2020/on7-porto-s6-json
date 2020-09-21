@@ -3,9 +3,9 @@
        "id": 1,
        "serie": "Stranger Things",
        "genero": [
-        "Drama",
-        "Fantasia",
-        "Suspense"
+       "Drama",
+       "Fantasia",
+       "Suspense"
        ],
        "temporada": 4,
        "canalOriginal": "Netflix"
@@ -14,9 +14,9 @@
        "id": 2,
        "serie": "Dark",
        "genero": [
-        "Drama",
-        "Ficção Científica",
-        "Suspense"
+       "Drama",
+       "Ficção Científica",
+       "Suspense"
        ],
        "temporada": 3,
        "canalOriginal": "Netflix"
@@ -25,8 +25,8 @@
        "id": 3,
        "serie": "The Handmaid's Tale",
        "genero": [
-        "Drama",
-        "Ficção Científica"
+       "Drama",
+       "Ficção Científica"
        ],
        "temporada": 3,
        "canalOriginal": "Globo Play"
@@ -35,10 +35,10 @@
        "id": 4,
        "serie": "Rick and Morty",
        "genero": [
-        "Aventura",
-        "Comédia",
-        "Ficção Científica",
-        "Animação"
+       "Aventura",
+       "Comédia",
+       "Ficção Científica",
+       "Animação"
        ],
        "temporada": 5,
        "canalOriginal": "Netflix"
@@ -54,9 +54,9 @@
        "id": 6,
        "serie": "Vikings",
        "genero": [
-        "Aventura",
-        "Drama",
-        "Histórico"
+       "Aventura",
+       "Drama",
+       "Histórico"
        ],
        "temporada": 6,
        "canalOriginal": "History"
@@ -65,8 +65,8 @@
        "id": 7,
        "serie": "Atypical",
        "genero": [
-        "Comédia",
-        "Drama"
+       "Comédia",
+       "Drama"
        ],
        "temporada": 4,
        "canalOriginal": "Netflix"
@@ -75,8 +75,8 @@
        "id": 8,
        "serie": "Prison Break",
        "genero": [
-        "Drama",
-        "Suspense"
+       "Drama",
+       "Suspense"
        ],
        "temporada": 5,
        "canalOriginal": "FOX"
@@ -85,9 +85,9 @@
        "id": 9,
        "serie": "Bates Motel",
        "genero": [
-        "Drama",
-        "Policial",
-        "Suspense"
+       "Drama",
+       "Policial",
+       "Suspense"
        ],
        "temporada": 5,
        "canalOriginal": "A&E"
@@ -96,8 +96,8 @@
        "id": 10,
        "serie": "The Good Place",
        "genero": [
-        "Aventura",
-        "Comédia"
+       "Aventura",
+       "Comédia"
        ],
        "temporada": 4,
        "canalOriginal": "NBC"

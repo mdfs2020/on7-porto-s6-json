@@ -3,9 +3,9 @@
        "id": 1,
        "local": "Nez Bistro",
        "culinaria": [
-        "Italiana",
-        "Francesa",
-        "Brasileira"
+       "Italiana",
+       "Francesa",
+       "Brasileira"
        ],
        "localizacao": "Rua Praça de Casa Forte, 314 Casa Forte, Recife, Pernambuco"
     },
@@ -13,9 +13,9 @@
        "id": 2,
        "local": "Cá-Já Restaurante",
        "culinaria": [
-        "Brasileira",
-        "Contemporânea",
-        "Opções vegetarianas"
+       "Brasileira",
+       "Contemporânea",
+       "Opções vegetarianas"
        ],
        "localizacao": "Rua Carneiro Vilela 648 Aflitos, Recife, Pernambuco"
     },
@@ -23,8 +23,8 @@
         "id": 3,
         "local": "São Pedro Restaurante",
         "culinaria": [
-            "Brasileira",
-            "Frutos do mar"
+        "Brasileira",
+        "Frutos do mar"
         ],
         "localizacao": "Pátio São Pedro, Recife, Pernambuco"
     },
@@ -32,8 +32,8 @@
         "id": 4,
         "local": "Restaurante Oficina do Sabor",
         "culinaria": [
-            "Brasileira",
-            "Frutos do mar"
+        "Brasileira",
+        "Frutos do mar"
         ],
         "localizacao": "Rua do Amparo, 335, Olinda, Pernambuco"
     },
@@ -41,9 +41,9 @@
        "id": 5,
        "local": "Restaurante Rota Do Mar",
        "culinaria": [
-        "Brasileira",
-        "Frutos do mar",
-        "Sul-americana"
+       "Brasileira",
+       "Frutos do mar",
+       "Sul-americana"
        ],
        "localizacao": "Ponte do Paiva, Jaboatão dos Guararapes, Pernambuco"
     },
@@ -51,8 +51,8 @@
         "id": 6,
         "local": "Arvo Restaurante",
         "culinaria": [
-            "Brasileira",
-            "Sul-americana"
+        "Brasileira",
+        "Sul-americana"
         ],
         "localizacao": "Rua Djalma Farias 170 Torreão, Recife, Pernambuco"
     },
@@ -60,9 +60,9 @@
         "id": 7,
         "local": "Restaurante Leite",
         "culinaria": [
-            "Brasileira",
-            "Frutos do mar",
-            "Europeia"
+        "Brasileira",
+        "Frutos do mar",
+        "Europeia"
         ],
         "localizacao": "Praça Joaquim Nabuco, 147 Santo Antônio, Recife, Pernambuco"
     },

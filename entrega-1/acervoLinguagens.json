@@ -10,9 +10,9 @@
        "linguagem": "Java",
        "surgiuEm": 1995,
        "criadoPor": [
-        "James Gosling",
-        "Sun Microsystems"
-        ]
+       "James Gosling",
+       "Sun Microsystems"
+       ]
     },
     {
         "id": 3,
@@ -55,8 +55,8 @@
         "linguagem": "SQL",
         "surgiuEm": 1974,
         "criadoPor": [
-            "Donald D. Chamberlin",
-            "Raymond F. Boyce"
+        "Donald D. Chamberlin",
+        "Raymond F. Boyce"
         ]
     },
     {
@@ -64,8 +64,8 @@
         "linguagem": "R",
         "surgiuEm": 1993,
         "criadoPor": [
-            "Ross Ihaka",
-            "Robert Clifford Gentleman"
+        "Ross Ihaka",
+        "Robert Clifford Gentleman"
         ]
     }
 ]   
