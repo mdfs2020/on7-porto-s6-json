@@ -1,0 +1,52 @@
+[
+    {
+       "id": 1,
+       "personagem": "Mulher Maravilha",
+       "criadoEm": 1941
+    },
+    {
+       "id": 2,
+       "personagem": "Homem de Ferro",
+       "criadoEm": 1963
+    },
+    {
+        "id": 3,
+        "personagem": "Homem Aranha",
+        "criadoEm": 1962
+    },
+    {
+        "id": 4,
+        "personagem": "Batman",
+        "criadoEm": 1939
+    },
+    {
+       "id": 5,
+       "personagem": "Hulk",
+       "criadoEm": 1962 
+    },
+    {
+        "id": 6,
+        "personagem": "Capitão América",
+        "criadoEm": 1940
+    },
+    {
+        "id": 7,
+        "personagem": "Thor",
+        "criadoEm": 1960
+    },
+    {
+        "id": 8,
+        "personagem": "Wolverine",
+        "criadoEm": 1974
+    },
+    {
+        "id": 9,
+        "personagem": "Super – Homem",
+        "criadoEm": 1938 
+    },
+    {
+        "id": 10,
+        "personagem": "Flash",
+        "criadoEm": 1940 
+    }
+]   

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "titulo": "Cem anos de solidão",
+        "autoria": "Gabriel García Márquez",
+        "editora": "Record",
+        "paginas": 447
+        
+    },
+    {
+        "id": 2,
+        "titulo": "Anna Kariênina",
+        "autoria": "Liev Tolstói" ,
+        "editora": "Cosac & Naify",
+        "paginas": 814
+        
+    },
+    {
+        "id": 3,
+        "titulo": "Kindred",
+        "autoria": "Octavia Butler",
+        "editora": "Morro Branco",
+        "paginas": 432
+        
+    },
+    {
+        "id": 4,
+        "titulo": "A Insustentável Leveza do Ser",
+        "autoria": "Milan Kundera",
+        "editora": "Companhia de Bolso",
+        "paginas": 312
+        
+    },
+    {
+        "id": 5,
+        "titulo": "A Metamorfose",
+        "autoria": "Franz Kafka",
+        "editora": "Companhia das Letras",
+        "paginas": 104
+        
+    },
+    {
+        "id": 6,
+        "titulo": "Circe",
+        "autoria": "Madeline Miller",
+        "editora": "Planeta",
+        "paginas": 368
+        
+    },
+    {
+        "id": 7,
+        "titulo": "As Intermitências da Morte",
+        "autoria": "José Saramago",
+        "editora": "Companhia das Letras",
+        "paginas": 208
+        
+    },
+    {
+        "id": 8,
+        "titulo": "A Peste",
+        "autoria": "Albert Camus",
+        "editora": "Record",
+        "paginas": 213
+        
+    },
+    {
+        "id": 9,
+        "titulo": "Retrotopia",
+        "autoria": "Zygmunt Bauman",
+        "editora": "Zahar",
+        "paginas": 168
+        
+    },
+    {
+        "id": 10,
+        "titulo": "Pele negra, máscaras brancas",
+        "autoria": "Frantz Fanon",
+        "editora": "Edufba",
+        "paginas": 194
+        
+    }
+]

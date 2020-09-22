@@ -1,0 +1,52 @@
+[
+    {
+       "id": 1,
+       "cafeteria": "Atelier Arte Machê Café",
+       "localizacao": "Rua de Sao Bento 90 Sitio Histórico, Varadouro, Olinda, Pernambuco"
+    },
+    {
+       "id": 2,
+       "cafeteria": "Estação Quatro Cantos",
+       "localizacao": "Rua Prudente de Morais 440 Carmo, Olinda, Pernambuco"
+    },
+    {
+        "id": 3,
+        "cafeteria": "Malakoff Cafe",
+        "localizacao": "Avenida Abdias de Carvalho, 1142, Recife, Pernambuco"
+    },
+    {
+        "id": 4,
+        "cafeteria": "Borsoi Café Clube",
+        "localizacao": "Rua Joaquim Carneiro Silva, 156. Pina, Recife, Pernambuco"
+    },
+    {
+       "id": 5,
+       "cafeteria": "A Vida é Bela café",
+       "localizacao": "Rua Francisco Lacerda 394, Recife, Pernambuco"
+    },
+    {
+        "id": 6,
+        "cafeteria": "Café do Brejo",
+        "localizacao": "Rua Capitão Lima, 20 Santo Amaro, Recife, Pernambuco"
+    },
+    {
+        "id": 7,
+        "cafeteria": "Apolo Beer Cafe",
+        "localizacao": "Rua do Apolo 164, Recife, Pernambuco"
+    },
+    {
+        "id": 8,
+        "cafeteria": "Clandestino Café",
+        "localizacao": "Avenida Senador Alberto Paiva, 92 Museu do Estado de Pernambuco, Recife, Pernambuco"
+    },
+    {
+        "id": 9,
+        "cafeteria": "elã - cafés especiais",
+        "localizacao": "Rua João Ramos 252-A Graças, Recife, Pernambuco"
+    },
+    {
+        "id": 10,
+        "cafeteria": "Carambola Cafe Recife",
+        "localizacao": "Rua Amaro Gomes Poroca 242, Recife, Pernambuco"
+    }
+]   

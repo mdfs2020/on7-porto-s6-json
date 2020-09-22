@@ -1,0 +1,52 @@
+[
+    {
+       "id": 1,
+       "lugar": "Museu Cais do Sertão",
+       "localizacao": "Avenida Alfredo Lisboa 1152, Recife, Pernambuco"
+    },
+    {
+       "id": 2,
+       "lugar": "Paço do Frevo",
+       "localizacao": "Praça do Arsenal da Marinha, Recife, Pernambuco"
+    },
+    {
+        "id": 3,
+        "lugar": "Instituto Ricardo Brennand",
+        "localizacao": "Alameda Antônio Brennand, Várzea, Recife, Pernambuco"
+    },
+    {
+        "id": 4,
+        "lugar": "Fundação Gilberto Freyre",
+        "localizacao": "Rua Dois Irmãos, 320 Apipucos, Recife, Pernambuco"
+    },
+    {
+       "id": 5,
+       "lugar": "Jardim Botânico do Recife",
+       "localizacao": "Rodovia BR-232 Curado, Recife, Pernambuco"
+    },
+    {
+        "id": 6,
+        "lugar": "CAIXA Cultural Recife",
+        "localizacao": "Avenida Alfredo Lisboa 505 Centro, Recife, Pernambuco"
+    },
+    {
+        "id": 7,
+        "lugar": "Fundação Joaquim Nabuco",
+        "localizacao": "Avenida Dezessete de Agosto 2187 Casa Forte, Recife, Pernambuco"
+    },
+    {
+        "id": 8,
+        "lugar": "Teatro Joaquim Cardozo",
+        "localizacao": "Rua Benfica 157, Recife, Pernambuco"
+    },
+    {
+        "id": 9,
+        "lugar": "Centro Histórico de Olinda",
+        "localizacao": "Olinda, Pernambuco Brasil"
+    },
+    {
+        "id": 10,
+        "lugar": "Igreja e Mosteiro de São Bento",
+        "localizacao": "Rua de São Bento, s/n - Olinda, Olinda, Pernambuco"
+    }
+]   
